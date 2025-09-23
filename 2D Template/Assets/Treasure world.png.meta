@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Treasure world_0: 3444357521282018453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
