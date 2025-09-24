@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bitcoin-takes-over-stockcake_0: -614405753349270732
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
